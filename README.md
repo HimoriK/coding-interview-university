@@ -291,12 +291,7 @@ Once you've learned a topic, and feel somewhat comfortable with it, for example,
 1. Open one of the [coding interview books](#interview-prep-books) (or coding problem websites, listed below) 
 1. Do 2 or 3 questions regarding linked lists. 
 1. Move on to the next learning topic.
-1. Later, go back and do another 2 or 3 linked list problems.
-1. Do this with each new topic you learn. 
-
-**Keep doing problems while you're learning all this stuff, not after.**
-
-You're not being hired for knowledge, but how you apply the knowledge.
+1. Repeat.
 
 ## The Daily Plan
 
@@ -315,7 +310,6 @@ Why you need to practice doing programming problems:
 - Problem recognition, and where the right data structures and algorithms fit in
 - Talking your way through the problem like you will in the interview
 - Coding on a whiteboard or paper, not a computer
-- Testing your solutions
 
 There is a great intro for methodical, communicative problem solving in an interview. You'll get this from the programming
 interview books, too, but I found this outstanding:
