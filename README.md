@@ -26,7 +26,7 @@ There is a lot to learn in a university Computer Science program, but only knowi
 
 <details>
   <summary>End</summary>
-[Once You've Got The Job](#once-youve-got-the-job)
+- [Once You've Got The Job](#once-youve-got-the-job)
 </details>
 
 ### Topics of Study
