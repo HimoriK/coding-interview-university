@@ -2,7 +2,7 @@
 > The items listed here will prepare you well for a technical interview at just about any software company,
 > including: Amazon, Facebook, Google, and Microsoft.
 
-Knowing 75% is good enough for an interview, so that's what I cover here. 
+Knowing 75% is good enough for an interview.
 
 ---
 
