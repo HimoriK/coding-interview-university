@@ -69,7 +69,7 @@ Some of mine (I already may know the answers, but want their opinion or team per
 - What are you working on?
 - What do you like about it?
 
-- [Once You've Got The Job](#once-youve-got-the-job)
+[Once You've Got The Job](#once-youve-got-the-job)
 
 ## Additional Books
 
