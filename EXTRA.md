@@ -44,16 +44,16 @@
 - [Computer Science Courses](#computer-science-courses)
 - [Papers](#papers)
 
-### Getting the Job
+## Getting the Job
 
-## Update Your Resume
+### Update Your Resume
 
 - See Resume prep information in the books: "Cracking The Coding Interview" and "Programming Interviews Exposed"
 - ["This Is What A GOOD Resume Should Look Like" by Gayle McDowell (author of Cracking the Coding Interview)](https://www.careercup.com/resume), 
 - ["Step-by-step resume guide" by Tech Interview Handbook](https://www.techinterviewhandbook.org/resume/guide)
     - Optimize.
 
-## Interview Process & General Interview Prep
+### Interview Process & General Interview Prep
 
 - [ ] [How to Pass the Engineering Interview in 2021](https://davidbyttow.medium.com/how-to-pass-the-engineering-interview-in-2021-45f1b389a1)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
@@ -84,7 +84,7 @@ Mock Interviews:
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
 - [Meetapro: Mock interviews with top FAANG interviewers](https://meetapro.com/?utm_source=ciu) - an Airbnb-style mock interview/coaching platform.
 
-## Be thinking of for when the interview comes
+### Be thinking of for when the interview comes
 
 Which 20 interview questions you'll get, study till you have at least one answer for each.
 Have a story, not just data, about something you accomplished.
@@ -100,7 +100,7 @@ Have a story, not just data, about something you accomplished.
 - What did you learn at [job x / project y]?
 - What would you have done better at [job x / project y]?
 
-## Have questions for the interviewer
+### Have questions for the interviewer
 
 Some of mine (I already may know the answers, but want their opinion or team perspective):
 
