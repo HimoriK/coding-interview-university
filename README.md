@@ -25,9 +25,10 @@ There is a lot to learn in a university Computer Science program, but only knowi
 - [Coding Problems](#coding-problems)
 
 <details>
-   <summary>End</summary>
+  <summary>End</summary>
 [Once You've Got The Job](#once-youve-got-the-job)
 </details>
+
 ### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
