@@ -2,7 +2,7 @@
 > The items listed here will prepare you well for a technical interview at just about any software company,
 > including: Amazon, Facebook, Google, and Microsoft.
 
-There is a lot to learn in a university Computer Science program, but only knowing about 75% is good enough for an interview, so that's what I cover here. 
+Knowing 75% is good enough for an interview, so that's what I cover here. 
 
 ---
 
@@ -111,7 +111,6 @@ This is my preference. You do what you like, of course.
 
 You may not need it, but here are some sites for learning a new language:
 - [Exercism](https://exercism.org/tracks)
-- [Codewars](http://www.codewars.com)
 - [HackerEarth](https://www.hackerearth.com/for-developers/)
 - [Scaler Topics (Java, C++)](https://www.scaler.com/topics/)
 
@@ -203,9 +202,6 @@ Please, read so you won't make my mistakes:
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
 
 ### 2. Use Flashcards
-
-To solve the problem, I made a little flashcards site where I could add flashcards of 2 types: general and code.
-Each card has different formatting. I made a mobile-first website, so I could review on my phone or tablet, wherever I am.
 
 Make your own for free:
 
