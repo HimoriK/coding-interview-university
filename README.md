@@ -165,54 +165,7 @@ If you want to work as a software engineer for a large company, these are the th
 If you missed out on getting a degree in computer science, like I did, this will catch you up and save four years of your life.
 
 When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, or anything about trees, or how to
-traverse a graph. If I had to code a sorting algorithm, I can tell ya it would have been terrible.
-Every data structure I had ever used was built into the language, and I didn't know how they worked
-under the hood at all. I never had to manage memory unless a process I was running would give an "out of
-memory" error, and then I'd have to find a workaround. I used a few multidimensional arrays in my life and
-thousands of associative arrays, but I never created data structures from scratch.
-
-It's a long plan. It may take you months. If you are familiar with a lot of this already it will take you a lot less time.
-
-## How to use it
-
-Everything below is an outline, and you should tackle the items in order from top to bottom.
-
-I'm using GitHub's special markdown flavor, including tasks lists to track progress.
-  - [More about GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
-
-### If you don't want to use git
-
-On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
-
-If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
-
-![How to download the repo as a zip file](https://d3j2pkmjtin6ou.cloudfront.net/how-to-download-as-zip.png)
-
-### If you're comfortable with git
-
-Create a new branch so you can check items like this, just put an x in the brackets: [x]
-
-1. ***Fork the GitHub repo:*** `https://github.com/jwasham/coding-interview-university` by clicking on the Fork button.
-
-    ![Fork the GitHub repo](https://d3j2pkmjtin6ou.cloudfront.net/fork-button.png)
-
-1. Clone to your local repo:
-
-    ```
-    git clone https://github.com/<YOUR_GITHUB_USERNAME>/coding-interview-university.git
-    cd coding-interview-university
-    git remote add upstream https://github.com/jwasham/coding-interview-university.git
-    git remote set-url --push upstream DISABLE  # so that you don't push your personal progress back to the original repo
-    ```
-
-1. Mark all boxes with X after you completed your changes:
-
-    ```
-    git commit -am "Marked personal progress"
-    git pull upstream main  # keep your fork up-to-date with changes from the original repo
-   
-    git push # just pushes to your fork
-    ```
+traverse a graph.
 
 ## Don't feel you aren't smart enough
 
@@ -220,12 +173,6 @@ Create a new branch so you can check items like this, just put an x in the brack
 - Following videos may help you overcome this insecurity:
     - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
     - [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
-## A Note About Video Resources
-
-It would be great to replace the online course resources with free and always-available public sources, 
-such as YouTube videos (preferably university lectures), so that you people can study these anytime, 
-not just when a specific online course is in session.
 
 ## Choose a Programming Language
 
@@ -236,8 +183,7 @@ You only need to be proficient in one.
 When I did the study plan, I used 2 languages for most of it: C and Python
 
 * C: Very low level. Allows you to deal with pointers and memory allocation/deallocation, so you feel the data structures 
-    and algorithms in your bones. In higher level languages like Python or Java, these are hidden from you. In day to day work, that's terrific,
-    but when you're learning how these low-level data structures are built, it's great to feel close to the metal.
+    and algorithms in your bones. Unrestricted, unsafe programming. Powerful.
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying.
     - [The C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
@@ -262,7 +208,7 @@ You can use a language you are comfortable in to do the coding part of the inter
 - Java
 - Python
 
-You could also use these, but read around first. There may be caveats:
+You could also use these in some cases:
 
 - JavaScript
 - Ruby
@@ -285,12 +231,10 @@ This book will form your foundation for computer science.
 Just choose one, in a language that you will be comfortable with. You'll be doing a lot of reading and coding.
 
 ### C
-
 - [Algorithms in C, Parts 1-5 (Bundle), 3rd Edition](https://www.amazon.com/Algorithms-Parts-1-5-Bundle-Fundamentals/dp/0201756080)
     - Fundamentals, Data Structures, Sorting, Searching, and Graph Algorithms 
 
 ### Python
-
 - [Data Structures and Algorithms in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
     - by Goodrich, Tamassia, Goldwasser
     - I loved this book. It covered everything and more.
@@ -298,9 +242,6 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
     - my glowing book report: https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
 ### Java
-
-Your choice:
-
 - Goodrich, Tamassia, Goldwasser
     - [Data Structures and Algorithms in Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
 - Sedgewick and Wayne:
@@ -310,9 +251,6 @@ Your choice:
         - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
 ### C++
-
-Your choice:
-
 - Goodrich, Tamassia, and Mount
     - [Data Structures and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
 - Sedgewick and Wayne
@@ -322,9 +260,6 @@ Your choice:
 ## Interview Prep Books
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough.
-
-I bought both of these. They gave me plenty of practice.
-
 - [Programming Interviews Exposed: Coding Your Way Through the Interview, 4th Edition](https://www.amazon.com/Programming-Interviews-Exposed-Through-Interview/dp/111941847X/)
     - Answers in C++ and Java
     - This is a good warm-up for Cracking the Coding Interview
@@ -347,9 +282,7 @@ Here are some mistakes I made.
 
 ### 1. You Won't Remember it All
 
-I watched hours of videos and took copious notes, and months later there was much I didn't remember. I spent 3 days going
-through my notes and making flashcards, so I could review. I didn't need all of that knowledge.
-
+I watched hours of videos and took copious notes, and months later there was much I didn't remember.
 Please, read so you won't make my mistakes:
 
 [Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
@@ -370,12 +303,8 @@ same card and answer it several times correctly before you really know it. Repet
 your brain.
 
 An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. 
-It uses a repetition system to help you remember. It's user-friendly, available on all platforms and has a cloud sync system. 
-It costs $25 on iOS but is free on other platforms.
 
 My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
-
-Some students have mentioned formatting issues with white space that can be fixed by doing the following: open deck, edit card, click cards, select the "styling" radio button, add the member "white-space: pre;" to the card class.
 
 ### 3. Do Coding Interview Questions While You're Learning
 
@@ -411,10 +340,8 @@ You don't need to memorize every algorithm. You just need to be able to understa
 
 Why you need to practice doing programming problems:
 - Problem recognition, and where the right data structures and algorithms fit in
-- Gathering requirements for the problem
 - Talking your way through the problem like you will in the interview
 - Coding on a whiteboard or paper, not a computer
-- Coming up with time and space complexity for your solutions (see Big-O below)
 - Testing your solutions
 
 There is a great intro for methodical, communicative problem solving in an interview. You'll get this from the programming
