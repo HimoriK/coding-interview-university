@@ -23,7 +23,7 @@ There is a lot to learn in a university Computer Science program, but only knowi
 - [The Daily Plan](#the-daily-plan)
 - [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
-<details>
+<details><summary>End</summary>
 - [Once You've Got The Job](#once-youve-got-the-job)
 </details>
 ### Topics of Study
