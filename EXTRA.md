@@ -84,7 +84,7 @@ Mock Interviews:
 - [interviewing.io: Practice mock interview with senior engineers](https://interviewing.io) - anonymous algorithmic/systems design interviews with senior engineers from FAANG anonymously
 - [Meetapro: Mock interviews with top FAANG interviewers](https://meetapro.com/?utm_source=ciu) - an Airbnb-style mock interview/coaching platform.
 
-### Be thinking of for when the interview comes
+### Remember that the interview will come
 
 Which 20 interview questions you'll get, study till you have at least one answer for each.
 Have a story, not just data, about something you accomplished.
