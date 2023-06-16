@@ -14,54 +14,6 @@
 >
 > *Best of luck to you!*
 
-<details>
-<summary>Translations:</summary>
-
-- [اردو - Urdu](translations/README-ur.md)
-- [中文版本](translations/README-cn.md)
-- [Tiếng Việt - Vietnamese](translations/README-vi.md)
-- [Español](translations/README-es.md)
-- [Português Brasileiro](translations/README-ptbr.md)
-- [Polish](translations/README-pl.md)
-- [繁體中文](translations/README-tw.md)
-- [Japanese (日本語)](translations/README-ja.md)
-- [Russian](translations/README-ru.md)
-- [German](translations/README-de.md)
-- [Bahasa Indonesia](translations/README-id.md)
-- [ខ្មែរ - Khmer](translations/README-kh.md)
-- [Uzbek](translations/README-uz.md)
-- [Bulgarian](translations/README-bg.md)
-- [বাংলা - Bangla](translations/README-bn.md)
-
-</details>
-
-<details>
-<summary>Translations in progress:</summary>
-
-- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
-- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
-- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
-- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
-- [French](https://github.com/jwasham/coding-interview-university/issues/89)
-- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
-- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
-- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
-- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
-- [Persian - Farsi](https://github.com/jwasham/coding-interview-university/issues/186)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/1030)
-- [Afrikaans](https://github.com/jwasham/coding-interview-university/issues/1164)
-</details>
-
-<div align="center">
-	<hr />
-    <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
-    </p>
-    <hr />
-</div>
-
 ## What is it?
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
@@ -271,19 +223,13 @@ Create a new branch so you can check items like this, just put an x in the brack
 
 ## A Note About Video Resources
 
-Some videos are available only by enrolling in a Coursera or EdX class. These are called MOOCs.
-Sometimes the classes are not in session so you have to wait a couple of months, so you have no access.
-
 It would be great to replace the online course resources with free and always-available public sources, 
 such as YouTube videos (preferably university lectures), so that you people can study these anytime, 
 not just when a specific online course is in session.
 
 ## Choose a Programming Language
 
-You'll need to choose a programming language for the coding interviews you do, 
-but you'll also need to find a language that you can use to study computer science concepts.
-
-Preferably the language would be the same, so that you only need to be proficient in one.
+You only need to be proficient in one.
 
 ### For this Study Plan
 
@@ -375,8 +321,7 @@ Your choice:
 
 ## Interview Prep Books
 
-You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
-but I bought more to give myself more practice. But I always do too much.
+You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough.
 
 I bought both of these. They gave me plenty of practice.
 
@@ -398,9 +343,7 @@ Choose one:
 
 ## Don't Make My Mistakes
 
-This list grew over many months, and yes, it got out of hand.
-
-Here are some mistakes I made so you'll have a better experience. And you'll save months of time.
+Here are some mistakes I made.
 
 ### 1. You Won't Remember it All
 
@@ -420,14 +363,7 @@ Make your own for free:
 
 - [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
 
-**I DON'T RECOMMEND using my flashcards.** There are too many and most of them are trivia that you don't need.
-
-But if you don't want to listen to me, here you go:
-- [My flash cards database (1200 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham.db):
-- [My flash cards database (extreme - 1800 cards)](https://github.com/jwasham/computer-science-flash-cards/blob/main/cards-jwasham-extreme.db):
-
 Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. 
-It's way too much for what's required.
 
 **Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
 same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
@@ -460,32 +396,10 @@ Once you've learned a topic, and feel somewhat comfortable with it, for example,
 
 You're not being hired for knowledge, but how you apply the knowledge.
 
-There are many resources for this, listed below. Keep going.
-
-### 4. Focus
-
-There are a lot of distractions that can take up valuable time. Focus and concentration are hard. Turn on some music
-without lyrics and you'll be able to focus pretty well.
-
-## What you won't see covered
-
-These are prevalent technologies but not part of this study plan:
-
-- Javascript
-- HTML, CSS, and other front-end technologies
-- SQL
-
 ## The Daily Plan
-
-This course goes over a lot of subjects. Each will probably take you a few days, or maybe even a week or more. It depends on your schedule.
 
 Each day, take the next subject in the list, watch some videos about that subject, and then write an implementation 
 of that data structure or algorithm in the language you chose for this course.
-
-You can see my code here:
- - [C](https://github.com/jwasham/practice-c)
- - [C++](https://github.com/jwasham/practice-cpp)
- - [Python](https://github.com/jwasham/practice-python)
 
 You don't need to memorize every algorithm. You just need to be able to understand it enough to be able to write your own implementation.
 
@@ -550,9 +464,7 @@ Challenge/Practice sites:
 
 ## Let's Get Started
 
-Alright, enough talk, let's learn!
-
-But don't forget to do coding problems from above while you learn!
+Don't forget to do coding problems from above while you learn!
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
@@ -571,8 +483,6 @@ But don't forget to do coding problems from above while you learn!
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
-
-Well, that's about enough of that. 
 
 When you go through "Cracking the Coding Interview", there is a chapter on this, and at the end there is a quiz to see 
 if you can identify the runtime complexity of different algorithms. It's a super review and test.
@@ -902,7 +812,7 @@ If you need more detail on this subject, see "Sorting" section in [Additional De
 
 ## Graphs
 
-Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
+Graphs can be used to represent many problems in computer science, like trees and sorting.
 
 - Notes:
     - There are 4 basic ways to represent a graph in memory:
@@ -980,7 +890,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 - ### Dynamic Programming
     - You probably won't see any dynamic programming problems in your interview, but it's worth being able to recognize a 
     problem as being a candidate for dynamic programming.
-    - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
+    - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation.
     - I suggest looking at many examples of DP problems until you have a solid understanding of the pattern involved.
     - [ ] Videos:
         - [ ] [Skiena: CSE373 2020 - Lecture 19 - Introduction to Dynamic Programming (video)](https://www.youtube.com/watch?v=wAA0AMfcJHQ&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx&index=18)
@@ -1040,8 +950,7 @@ Graphs can be used to represent many problems in computer science, so this secti
             - [ ] [Probability Explained (video)](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 
 - ### NP, NP-Complete and Approximation Algorithms
-    - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem,
-        and be able to recognize them when an interviewer asks you them in disguise.
+    - Know about the most famous classes of NP-complete problems, such as traveling salesman and the knapsack problem.
     - Know what NP-complete means.
     - [ ] [Computational Complexity (video)](https://www.youtube.com/watch?v=moPtwq_cVH8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=23)
     - [ ] Simonson:
@@ -1084,7 +993,7 @@ Graphs can be used to represent many problems in computer science, so this secti
     - [What Is The Difference Between A Process And A Thread?](https://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
     - Covers:
         - Processes, Threads, Concurrency issues
-            - Difference between processes and threads
+            - The difference between processes and threads
             - Processes
             - Threads
             - Locks
@@ -1175,7 +1084,6 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - ### Networking
     - **If you have networking experience or want to be a reliability engineer or operations engineer, expect questions**
-    - Otherwise, this is just good to know
     - [ ] [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
     - [ ] [UDP and TCP: Comparison of Transport Protocols (video)](https://www.youtube.com/watch?v=Vdc8TCESIg8)
     - [ ] [TCP/IP and the OSI Model Explained! (video)](https://www.youtube.com/watch?v=e5DEVa9eSN0)
@@ -1194,8 +1102,7 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 ## Final Review
 
-    This section will have shorter videos that you can watch pretty quickly to review most of the important concepts.
-    It's nice if you want a refresher often.
+    Refresher.
 
 - [ ] Series of 2-3 minutes short subject videos (23 videos)
     - [Videos](https://www.youtube.com/watch?v=r4r1DZcx1cM&list=PLmVb1OknmNJuC5POdcDv5oCS7_OUkDgpj&index=22)
@@ -1210,10 +1117,8 @@ Graphs can be used to represent many problems in computer science, so this secti
 
 - See Resume prep information in the books: "Cracking The Coding Interview" and "Programming Interviews Exposed"
 - ["This Is What A GOOD Resume Should Look Like" by Gayle McDowell (author of Cracking the Coding Interview)](https://www.careercup.com/resume), 
-    - Note by the author: "This is for a US-focused resume. CVs for India and other countries have different expectations, although many of the points will be the same."
 - ["Step-by-step resume guide" by Tech Interview Handbook](https://www.techinterviewhandbook.org/resume/guide)
-    - Detailed guide on how to set up your resume from scratch, write effective resume content, optimize it, and test your resume
-    - Detailed guide on how to set up your resume from scratch, write effective resume content, optimize it, and test your resume
+    - Optimize.
 
 ## Interview Process & General Interview Prep
 
@@ -1248,16 +1153,14 @@ Mock Interviews:
 
 ## Be thinking of for when the interview comes
 
-Think of about 20 interview questions you'll get, along with the lines of the items below. Have at least one answer for each.
+Which 20 interview questions you'll get, study till you have at least one answer for each.
 Have a story, not just data, about something you accomplished.
 
 - Why do you want this job?
 - What's a tough problem you've solved?
 - Biggest challenges faced?
-- Best/worst designs seen?
 - Ideas for improving an existing product
 - How do you work best, as an individual and as part of a team?
-- Which of your skills or experiences would be assets in the role and why?
 - What did you most enjoy at [job x / project y]?
 - What was the biggest challenge you faced at [job x / project y]?
 - What was the hardest bug you faced at [job x / project y]?
@@ -1276,25 +1179,23 @@ Some of mine (I already may know the answers, but want their opinion or team per
 - Do you feel your work environment helps you concentrate?
 - What are you working on?
 - What do you like about it?
-- What is the work life like?
-- How is the work/life balance?
 
 ## Once You've Got The Job
 
-Congratulations!
+Congratulations! 
 
-Keep learning.
+Remember,
 
-You're never really done.
+Never stop learning.
 
 ---
 
     *****************************************************************************************************
     *****************************************************************************************************
 
-    Everything below this point is optional. It is NOT needed for an entry-level interview.
-    However, by studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
-    any software engineering job. You'll be a much more well-rounded software engineer.
+    Everything below this point is optional. However, by studying these, you'll get greater exposure 
+    to more CS concepts, and will be better prepared for any software engineering job. You'll be a 
+    more well-rounded software engineer.
     
     *****************************************************************************************************
     *****************************************************************************************************
