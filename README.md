@@ -1,6 +1,6 @@
 # Coding Interview University
 > The items listed here will prepare you well for a technical interview at just about any software company,
-> including: Amazon, Facebook, Google, and Microsoft.
+> including: FAANG companies.
 
 Knowing 75% is good enough for an interview. *Remember*, degrees are the theoretical, while the *practical* is within you.
 
@@ -12,7 +12,6 @@ Knowing 75% is good enough for an interview. *Remember*, degrees are the theoret
 
 - [Choose a Programming Language](#choose-a-programming-language)
 - [Books for Data Structures and Algorithms](#books-for-data-structures-and-algorithms)
-- [Coding Question Practice](#coding-question-practice)
 - [Coding Problems](#coding-problems)
 - [Once You've Got The Job](#once-youve-got-the-job)
 
@@ -148,58 +147,14 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
         - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
 ### C++
-- Goodrich, Tamassia, and Mount
-    - [Data Structures and Algorithms in C++, 2nd Edition](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/0470383275)
-- Sedgewick and Wayne
-    - [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
-    - [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
+- Add a C++ book on DSA?
+- Add a C++ book on Algorithms?
 
 ## Interview Prep Books
 
 Don't buy books for this stuff, instead:
  - Try leetcode
 - Literally just look up code interviews online
-
-## Don't Make My Mistakes
-
-Here are some mistakes I made.
-
-### 1. You Won't Remember it All
-
-I watched hours of videos and took copious notes, and months later there was much I didn't remember.
-Please, read so you won't make my mistakes:
-
-[Retaining Computer Science Knowledge](https://startupnextdoor.com/retaining-computer-science-knowledge/).
-
-### 2. Use Flashcards
-
-Make your own for free:
-
-- [Flashcards site repo](https://github.com/jwasham/computer-science-flash-cards)
-
-Keep in mind I went overboard and have cards covering everything from assembly language and Python trivia to machine learning and statistics. 
-
-**Note on flashcards:** The first time you recognize you know the answer, don't mark it as known. You have to see the
-same card and answer it several times correctly before you really know it. Repetition will put that knowledge deeper in
-your brain.
-
-An alternative to using my flashcard site is [Anki](http://ankisrs.net/), which has been recommended to me numerous times. 
-
-My flashcard database in Anki format: https://ankiweb.net/shared/info/25173560 (thanks [@xiewenya](https://github.com/xiewenya)).
-
-### 3. Do Coding Interview Questions While You're Learning
-
-THIS IS VERY IMPORTANT.
-
-Start doing coding interview questions while you're learning data structures and algorithms.
-
-You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. 
-
-Once you've learned a topic, and feel somewhat comfortable with it, for example, **linked lists**:
-1. Open one of the [coding interview books](#interview-prep-books) (or coding problem websites, listed below) 
-1. Do 2 or 3 questions regarding linked lists. 
-1. Move on to the next learning topic.
-1. Repeat.
 
 ## The Daily Plan
 
@@ -210,11 +165,7 @@ You don't need to memorize every algorithm, just enough to write your own implem
 
 ## Coding Question Practice
 
-    Why is this here? I'm not ready to interview.
-
-[Then go back and read this.](#3-do-coding-interview-questions-while-youre-learning)
-
-Why you need to practice doing programming problems:
+Benefits of programming practice:
 - Problem recognition, and where the right data structures and algorithms fit in
 - Talking your way through the problem like you will in the interview
 - Coding on a whiteboard or paper, not a computer
@@ -224,11 +175,9 @@ There is a great intro for methodical, communicative problem solving in an inter
 interview books, too, but I found this outstanding:
 [Algorithm design canvas](http://www.hiredintech.com/algorithm-design/)
 
-Write code on a whiteboard or paper, not a computer. Test with some sample inputs. Then type it and test it out on a computer.
+Write out code on paper, explain it, then execute.
 
 ## Coding Problems
-
-Don't forget your key coding interview books [here](#interview-prep-books).
 
 Solving Problems:
 - [How to Find a Solution](https://www.topcoder.com/thrive/articles/How%20To%20Find%20a%20Solution)
@@ -905,6 +854,20 @@ Graphs can be used to represent many problems in computer science, like trees an
 - [ ] [Sedgewick Videos - Algorithms II](https://www.coursera.org/learn/algorithms-part2)
 
 ---
+
+### Do Coding Interview Questions While You're Learning
+
+THIS IS VERY IMPORTANT.
+
+Start doing coding interview questions while you're learning data structures and algorithms.
+
+You need to apply what you're learning to solving problems, or you'll forget. I made this mistake. 
+
+Once you've learned a topic, and feel somewhat comfortable with it, for example, **linked lists**:
+1. Open one of the [coding interview books](#interview-prep-books) (or coding problem websites, listed below) 
+1. Do 2 or 3 questions regarding linked lists. 
+1. Move on to the next learning topic.
+1. Repeat.
 
 ## Once You've Got The Job
 
