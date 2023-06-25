@@ -157,7 +157,7 @@ Just choose one, in a language that you will be comfortable with. You'll be doin
 ## Interview Prep Books
 
 Don't buy books for this stuff, instead:
--Try leetcode
+ - Try leetcode
 - Literally just look up code interviews online
 
 ## Don't Make My Mistakes
