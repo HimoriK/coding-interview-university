@@ -46,7 +46,7 @@ When I did the study plan, I used 2 languages for most of it: C and Python
 
 * C: Very low level. Allows you to deal with pointers and memory allocation/deallocation.
     - C is everywhere. You'd do best to learn it, the modern version that compiles that is.
-* Python: Modern and very expressive, I learned it because it's just super useful and also allows me to write less code in an interview.
+* Python: Modern and very expressive scripting language, has embedded C. Otherwise known as 'CPython'.
 
 You may not need it, but here are some sites for learning a new language:
 - [Exercism](https://exercism.org/tracks)
