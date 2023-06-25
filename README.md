@@ -68,10 +68,7 @@ Knowing 75% is good enough for an interview.
 
 If you want to work as a software engineer for a large company, these are the things you have to know.
 
-If you missed out on getting a degree in computer science, like I did, this will catch you up and save four years of your life.
-
-When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, or anything about trees, or how to
-traverse a graph.
+If you missed out on getting a degree in computer science, this will catch you up and save four years of your life.
 
 ## Don't feel you aren't smart enough
 
